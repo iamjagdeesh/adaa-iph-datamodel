@@ -1,0 +1,12 @@
+update pillars set name_ar = 'التعليم' where name_en = 'Education';
+update pillars set name_ar = 'الطاقة' where name_en = 'Energy';
+update pillars set name_ar = 'الاقتصاد' where name_en = 'Economy';
+update pillars set name_ar = 'المالية' where name_en = 'Finance';
+update pillars set name_ar = 'الأمن' where name_en = 'Security';
+update pillars set name_ar = 'الصحة' where name_en = 'Health';
+update pillars set name_ar = 'الصناعة' where name_en = 'Industry';
+update pillars set name_ar = 'البنية التحية' where name_en = 'Infrastructure';
+update pillars set name_ar = 'العمالة' where name_en = 'Labor';
+update pillars set name_ar = 'العدالة' where name_en = 'Justice';
+update pillars set name_ar = 'التنمية الاجتماعية' where name_en = 'Social';
+update pillars set name_ar = 'التقنية' where name_en = 'Technology';
